@@ -1,4 +1,4 @@
-package domain;
+package com.sokolmn.siebellogreplacer.domain;
 
 import java.util.ArrayList;
 import java.util.Hashtable;

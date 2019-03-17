@@ -1,5 +1,7 @@
-import domain.SQLStatement;
-import domain.SelectStatement;
+package com.sokolmn.siebellogreplacer;
+
+import com.sokolmn.siebellogreplacer.domain.SQLStatement;
+import com.sokolmn.siebellogreplacer.domain.SelectStatement;
 
 import java.util.regex.Pattern;
 
